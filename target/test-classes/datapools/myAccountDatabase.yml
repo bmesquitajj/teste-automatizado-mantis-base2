@@ -1,0 +1,28 @@
+UpdateUser:
+	confirmPass:
+	realName:
+	email:
+	
+	confirmPass_Two:
+	realName_Two:
+	email_Two:
+	
+	confirmPass_Three:
+	realName_Three:
+	email_Three:
+
+	
+Preferences:
+	refreshDelay_One:
+	redirectDelay_One:
+	
+	refreshDelay_Two:
+	redirectDelay_Two:
+	
+Profiles:
+	platform:
+	os:
+	osVersion:
+	addDescription:
+	
+	
